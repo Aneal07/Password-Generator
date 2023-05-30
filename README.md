@@ -10,3 +10,5 @@ CSS,
 and JavaScript.
 Demo:https://aneal07.github.io/Password-Generator/
 
+![Password-Generator](password.jpg)
+
